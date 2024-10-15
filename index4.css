@@ -1,0 +1,91 @@
+.html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.diesSetmana th{
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    height: 60px;
+    width: 180px;
+    background-color: lightgreen;
+
+}
+.LMSGI{
+    background-color: pink;
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+    
+}
+
+.PED{
+    background-color: darkcyan;
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+    
+}
+
+.IPOI{
+    background-color: darkred;
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+    
+}
+
+.BD{
+    background-color: beige;
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+    
+}
+.AN{
+    background-color: yellowgreen;
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+    
+}
+.SI{
+    background-color: yellow;
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+    
+}
+.TUT{
+    background-color: blue;
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+    
+}
+.DIW{
+    background-color: orange;
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+    
+}
+
+.descans{
+    font-size: 20px;
+    padding: 15px;
+    height: 25px;
+    
+}
+.hores{
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+    
+}
+
+.capçaleres{
+    padding: 30px;
+    font-size: 25px;
+    
+}
